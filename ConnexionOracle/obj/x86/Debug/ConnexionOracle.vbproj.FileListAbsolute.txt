@@ -1,0 +1,164 @@
+C:\Users\Thomas\AppData\Local\Temporary Projects\ConnexionOracle\bin\Debug\ConnexionOracle.exe
+C:\Users\Thomas\AppData\Local\Temporary Projects\ConnexionOracle\bin\Debug\ConnexionOracle.pdb
+C:\Users\Thomas\AppData\Local\Temporary Projects\ConnexionOracle\bin\Debug\ConnexionOracle.xml
+C:\Users\Thomas\AppData\Local\Temporary Projects\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Form1.resources
+C:\Users\Thomas\AppData\Local\Temporary Projects\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Resources.resources
+C:\Users\Thomas\AppData\Local\Temporary Projects\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbproj.GenerateResource.Cache
+C:\Users\Thomas\AppData\Local\Temporary Projects\ConnexionOracle\obj\x86\Debug\ConnexionOracle.exe
+C:\Users\Thomas\AppData\Local\Temporary Projects\ConnexionOracle\obj\x86\Debug\ConnexionOracle.xml
+C:\Users\Thomas\AppData\Local\Temporary Projects\ConnexionOracle\obj\x86\Debug\ConnexionOracle.pdb
+C:\Users\Thomas\OneDrive\SIO\SIO2\SLAM4\PPE\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.exe
+C:\Users\Thomas\OneDrive\SIO\SIO2\SLAM4\PPE\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.xml
+C:\Users\Thomas\OneDrive\SIO\SIO2\SLAM4\PPE\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.pdb
+C:\Users\Thomas\OneDrive\SIO\SIO2\SLAM4\PPE\ConnexionOracle\ConnexionOracle\bin\Debug\ConnexionOracle.exe
+C:\Users\Thomas\OneDrive\SIO\SIO2\SLAM4\PPE\ConnexionOracle\ConnexionOracle\bin\Debug\ConnexionOracle.pdb
+C:\Users\Thomas\OneDrive\SIO\SIO2\SLAM4\PPE\ConnexionOracle\ConnexionOracle\bin\Debug\ConnexionOracle.xml
+C:\Users\Thomas\OneDrive\SIO\SIO2\SLAM4\PPE\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Form1.resources
+C:\Users\Thomas\OneDrive\SIO\SIO2\SLAM4\PPE\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Resources.resources
+C:\Users\Thomas\OneDrive\SIO\SIO2\SLAM4\PPE\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbproj.GenerateResource.Cache
+C:\Users\thoma\OneDrive\SIO\SIO2\SLAM 4\PPE\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.exe
+C:\Users\thoma\OneDrive\SIO\SIO2\SLAM 4\PPE\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.xml
+C:\Users\thoma\OneDrive\SIO\SIO2\SLAM 4\PPE\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.pdb
+\\Nas\ressource_pedagogique\SIO\SIO2\SLAM4\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.exe
+\\Nas\ressource_pedagogique\SIO\SIO2\SLAM4\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.xml
+\\Nas\ressource_pedagogique\SIO\SIO2\SLAM4\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.pdb
+C:\Users\14jimenezr\Documents\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.exe
+C:\Users\14jimenezr\Documents\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.xml
+C:\Users\14jimenezr\Documents\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.pdb
+C:\Users\14jimenezr\Documents\ConnexionOracle\ConnexionOracle\bin\Debug\ConnexionOracle.exe
+C:\Users\14jimenezr\Documents\ConnexionOracle\ConnexionOracle\bin\Debug\ConnexionOracle.pdb
+C:\Users\14jimenezr\Documents\ConnexionOracle\ConnexionOracle\bin\Debug\ConnexionOracle.xml
+C:\Users\14jimenezr\Documents\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Form1.resources
+C:\Users\14jimenezr\Documents\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Resources.resources
+C:\Users\14jimenezr\Documents\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbproj.GenerateResource.Cache
+D:\Users\erwan\Desktop\SIO\_SAV_\PPE\SDIS29\PPE3\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.exe
+D:\Users\erwan\Desktop\SIO\_SAV_\PPE\SDIS29\PPE3\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.xml
+D:\Users\erwan\Desktop\SIO\_SAV_\PPE\SDIS29\PPE3\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.pdb
+D:\Users\erwan\Desktop\SIO\_SAV_\PPE\SDIS29\PPE3\ConnexionOracle\ConnexionOracle\bin\Debug\ConnexionOracle.exe
+D:\Users\erwan\Desktop\SIO\_SAV_\PPE\SDIS29\PPE3\ConnexionOracle\ConnexionOracle\bin\Debug\ConnexionOracle.pdb
+D:\Users\erwan\Desktop\SIO\_SAV_\PPE\SDIS29\PPE3\ConnexionOracle\ConnexionOracle\bin\Debug\ConnexionOracle.xml
+D:\Users\erwan\Desktop\SIO\_SAV_\PPE\SDIS29\PPE3\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Form1.resources
+D:\Users\erwan\Desktop\SIO\_SAV_\PPE\SDIS29\PPE3\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Resources.resources
+D:\Users\erwan\Desktop\SIO\_SAV_\PPE\SDIS29\PPE3\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbproj.GenerateResource.Cache
+D:\Users\erwan\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.exe
+D:\Users\erwan\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.xml
+D:\Users\erwan\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.pdb
+D:\Users\erwan\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\bin\Debug\ConnexionOracle.exe
+D:\Users\erwan\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\bin\Debug\ConnexionOracle.pdb
+D:\Users\erwan\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\bin\Debug\ConnexionOracle.xml
+D:\Users\erwan\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbprojResolveAssemblyReference.cache
+D:\Users\erwan\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Form1.resources
+D:\Users\erwan\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Resources.resources
+D:\Users\erwan\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbproj.GenerateResource.Cache
+C:\Users\Erwan\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.exe
+C:\Users\Erwan\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.xml
+C:\Users\Erwan\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.pdb
+C:\Users\Erwan\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\bin\Debug\ConnexionOracle.exe
+C:\Users\Erwan\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\bin\Debug\ConnexionOracle.pdb
+C:\Users\Erwan\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\bin\Debug\ConnexionOracle.xml
+C:\Users\Erwan\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Erwan\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbprojResolveAssemblyReference.cache
+C:\Users\Erwan\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Form1.resources
+C:\Users\Erwan\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Resources.resources
+C:\Users\Erwan\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbproj.GenerateResource.Cache
+C:\Users\erwan.ESTRANSUP\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.exe
+C:\Users\erwan.ESTRANSUP\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.xml
+C:\Users\erwan.ESTRANSUP\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.pdb
+C:\Users\erwan.ESTRANSUP\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\bin\Debug\ConnexionOracle.exe
+C:\Users\erwan.ESTRANSUP\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\bin\Debug\ConnexionOracle.pdb
+C:\Users\erwan.ESTRANSUP\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\bin\Debug\ConnexionOracle.xml
+C:\Users\erwan.ESTRANSUP\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbprojResolveAssemblyReference.cache
+C:\Users\erwan.ESTRANSUP\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Form1.resources
+C:\Users\erwan.ESTRANSUP\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Resources.resources
+C:\Users\erwan.ESTRANSUP\Desktop\SIO\Modules\SLAM4\VBNET\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbproj.GenerateResource.Cache
+C:\Users\erwan\Desktop\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.exe
+C:\Users\erwan\Desktop\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.xml
+C:\Users\erwan\Desktop\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.pdb
+C:\Users\erwan\Desktop\ConnexionOracle\ConnexionOracle\bin\Debug\ConnexionOracle.exe
+C:\Users\erwan\Desktop\ConnexionOracle\ConnexionOracle\bin\Debug\ConnexionOracle.pdb
+C:\Users\erwan\Desktop\ConnexionOracle\ConnexionOracle\bin\Debug\ConnexionOracle.xml
+C:\Users\erwan\Desktop\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbprojResolveAssemblyReference.cache
+C:\Users\erwan\Desktop\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Form1.resources
+C:\Users\erwan\Desktop\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Resources.resources
+C:\Users\erwan\Desktop\ConnexionOracle\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbproj.GenerateResource.Cache
+C:\Users\annick.ESTRANSUP\Documents\ConnexionOracleV1\ConnexionOracle\obj\x86\Debug\ConnexionOracle.exe
+C:\Users\annick.ESTRANSUP\Documents\ConnexionOracleV1\ConnexionOracle\obj\x86\Debug\ConnexionOracle.xml
+C:\Users\annick.ESTRANSUP\Documents\ConnexionOracleV1\ConnexionOracle\obj\x86\Debug\ConnexionOracle.pdb
+C:\Users\annick.ESTRANSUP\Documents\ConnexionOracleV1\ConnexionOracle\bin\Debug\ConnexionOracle.exe
+C:\Users\annick.ESTRANSUP\Documents\ConnexionOracleV1\ConnexionOracle\bin\Debug\ConnexionOracle.pdb
+C:\Users\annick.ESTRANSUP\Documents\ConnexionOracleV1\ConnexionOracle\bin\Debug\ConnexionOracle.xml
+C:\Users\annick.ESTRANSUP\Documents\ConnexionOracleV1\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbprojResolveAssemblyReference.cache
+C:\Users\annick.ESTRANSUP\Documents\ConnexionOracleV1\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Form1.resources
+C:\Users\annick.ESTRANSUP\Documents\ConnexionOracleV1\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Resources.resources
+C:\Users\annick.ESTRANSUP\Documents\ConnexionOracleV1\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbproj.GenerateResource.Cache
+C:\Users\annick\Documents\TestConnexionOracle\TestOracle19\ConnexionOracle\bin\Debug\ConnexionOracle.exe
+C:\Users\annick\Documents\TestConnexionOracle\TestOracle19\ConnexionOracle\bin\Debug\ConnexionOracle.pdb
+C:\Users\annick\Documents\TestConnexionOracle\TestOracle19\ConnexionOracle\bin\Debug\ConnexionOracle.xml
+C:\Users\annick\Documents\TestConnexionOracle\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Form1.resources
+C:\Users\annick\Documents\TestConnexionOracle\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Resources.resources
+C:\Users\annick\Documents\TestConnexionOracle\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbproj.GenerateResource.cache
+C:\Users\annick\Documents\TestConnexionOracle\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.exe
+C:\Users\annick\Documents\TestConnexionOracle\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.xml
+C:\Users\annick\Documents\TestConnexionOracle\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.pdb
+C:\Users\annick\Documents\TestConnexionOracle\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbprojResolveAssemblyReference.cache
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19\ConnexionOracle\bin\Debug\ConnexionOracle.exe
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19\ConnexionOracle\bin\Debug\ConnexionOracle.pdb
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19\ConnexionOracle\bin\Debug\ConnexionOracle.xml
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19\ConnexionOracle\bin\Debug\Oracle.DataAccess.dll
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbproj.AssemblyReference.cache
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Form1.resources
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Resources.resources
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbproj.GenerateResource.cache
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbproj.CoreCompileInputs.cache
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbproj.CopyComplete
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.exe
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.xml
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.pdb
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Chauffeur.resources
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Connexion.resources
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Exploitant.resources
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.VoirTournee.resources
+C:\Users\22NGUIANVA\Downloads\TestOracle19 (1)\TestOracle19\ConnexionOracle\bin\Debug\ConnexionOracle.exe
+C:\Users\22NGUIANVA\Downloads\TestOracle19 (1)\TestOracle19\ConnexionOracle\bin\Debug\ConnexionOracle.pdb
+C:\Users\22NGUIANVA\Downloads\TestOracle19 (1)\TestOracle19\ConnexionOracle\bin\Debug\ConnexionOracle.xml
+C:\Users\22NGUIANVA\Downloads\TestOracle19 (1)\TestOracle19\ConnexionOracle\bin\Debug\Oracle.DataAccess.dll
+C:\Users\22NGUIANVA\Downloads\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbproj.AssemblyReference.cache
+C:\Users\22NGUIANVA\Downloads\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Chauffeur.resources
+C:\Users\22NGUIANVA\Downloads\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Connexion.resources
+C:\Users\22NGUIANVA\Downloads\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Exploitant.resources
+C:\Users\22NGUIANVA\Downloads\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Form1.resources
+C:\Users\22NGUIANVA\Downloads\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Resources.resources
+C:\Users\22NGUIANVA\Downloads\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.VoirTournee.resources
+C:\Users\22NGUIANVA\Downloads\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbproj.GenerateResource.cache
+C:\Users\22NGUIANVA\Downloads\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbproj.CoreCompileInputs.cache
+C:\Users\22NGUIANVA\Downloads\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbproj.CopyComplete
+C:\Users\22NGUIANVA\Downloads\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.exe
+C:\Users\22NGUIANVA\Downloads\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.xml
+C:\Users\22NGUIANVA\Downloads\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.pdb
+C:\Users\22NGUIANVA\Downloads\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.CreerTournee.resources
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\bin\Debug\ConnexionOracle.exe
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\bin\Debug\ConnexionOracle.pdb
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\bin\Debug\ConnexionOracle.xml
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\bin\Debug\Oracle.DataAccess.dll
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbproj.AssemblyReference.cache
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Chauffeur.resources
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Connexion.resources
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Exploitant.resources
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Resources.resources
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.CreerTournee.resources
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.VoirTournee.resources
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbproj.GenerateResource.cache
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbproj.CoreCompileInputs.cache
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.vbproj.CopyComplete
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.exe
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.xml
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.pdb
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Quais.resources
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.VoirCommandes.resources
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.Admin.resources
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.CreerCommandes.resources
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.CreerPalettes.resources
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.VoirPalettes.resources
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.CreerCamion.resources
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.VoirCamion.resources
+F:\22GBIRRIEN\mesTéléchargements\TestOracle19 (1)\TestOracle19\ConnexionOracle\obj\x86\Debug\ConnexionOracle.ModifCamion.resources
